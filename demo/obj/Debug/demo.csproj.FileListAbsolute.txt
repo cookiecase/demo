@@ -28,6 +28,6 @@ c:\users\12605\documents\visual studio 2015\Projects\demo\demo\bin\Microsoft.AI.
 c:\users\12605\documents\visual studio 2015\Projects\demo\demo\bin\Microsoft.AI.WindowsServer.xml
 c:\users\12605\documents\visual studio 2015\Projects\demo\demo\bin\Microsoft.ApplicationInsights.xml
 c:\users\12605\documents\visual studio 2015\Projects\demo\demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\users\12605\documents\visual studio 2015\Projects\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
 c:\users\12605\documents\visual studio 2015\Projects\demo\demo\obj\Debug\demo.dll
 c:\users\12605\documents\visual studio 2015\Projects\demo\demo\obj\Debug\demo.pdb
+C:\Users\12605\Documents\Visual Studio 2015\Projects\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache

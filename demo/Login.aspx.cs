@@ -36,7 +36,11 @@ namespace demo
                 if(ds.Tables[0].Rows.Count>0)
                 {
                     //登录成功
-                    Response.Redirect("add.aspx");
+                    Response.Redirect("admin.aspx");
+                }
+                else
+                {
+                    Response.Write("<Script Language=JavaScript>alert('密码错误！');</Script>");
                 }
             }
             catch

@@ -9,11 +9,12 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <asp:TextBox runat="server" ID="UserName" ></asp:TextBox>
-        <asp:TextBox runat="server" ID="UserKey"></asp:TextBox>
-        <asp:Button  runat="server" ID="LoginButton" OnClick="LoginButton_Click"/>
-
+        <asp:TextBox AUTOCOMPLETE="OFF" runat="server" ID="UserName"></asp:TextBox>
     </div>
+        <asp:TextBox AUTOCOMPLETE="OFF" runat="server" ID="UserKey" ></asp:TextBox>
+        <p>
+        <asp:Button  runat="server" ID="LoginButton" OnClick="LoginButton_Click" Text="登录"/>
+        </p>
     </form>
 </body>
 </html>
